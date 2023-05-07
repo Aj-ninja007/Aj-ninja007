@@ -8,7 +8,7 @@
 
   
 ## 🌐 Socials:
-[![Instagram]https://instagram.com/itss_me_prince_70?igshid=ZGUzMzM3NWJiOQ==
+[![Instagram](https://instagram.com/itss_me_prince_70?igshid=ZGUzMzM3NWJiOQ==/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chirag0002/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ChiragV01) 
 
