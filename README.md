@@ -1,4 +1,4 @@
-![prince Mishra](https://github.com/Aj-ninja007/portfolio/blob/main/princemishra12.jpeg)
+//![prince Mishra](https://github.com/Aj-ninja007/portfolio/blob/main/princemishra12.jpeg)
 
 <h1>Hi 👋, I'm <a target="blank" href="https://portfolio-13b734.spheron.app/"> Prince Mishra </a>.</h1><br>
 👨‍💻 A passionate Developer and Learner from India.<br>
