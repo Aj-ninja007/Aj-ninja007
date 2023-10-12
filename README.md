@@ -1,7 +1,7 @@
 
 <h1>Hi 👋, I'm <a target="blank" href="https://portfolio-13b734.spheron.app/"> Prince Mishra </a>.</h1><br>
 👨‍💻 A passionate Developer and Learner from India.<br>
-🌱  I’m currently Learning and Exploring DevOps.<br>
+🌱  I’m currently Learning and Exploring web development.<br>
 🤝 Feel free to reach out to me for some techy discussion.<br>
 💬 You can contact me via princemishra9696@gmail.com ! I'll try to respond as soon as possible.<br>
 ⚡ I love Open Source.
